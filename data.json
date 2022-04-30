@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "panner": "/images/panner.jpg",
+    "image": "/images/me.png",
+    "icon": "/images/favicon.png",
+    "name": "Ali Alhussein",
+    "jobTitle": "Front-End Developer",
+    "isEmployed": false,
+    "startYear": 2019,
+    "contact": {
+      "mobile": "+963991570653",
+      "email": "a.alhussein33@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/ali-alhussein",
+      "github": "https://github.com/3li7u"
+    },
+    "personalInfo": {
+      "DOB": "10th  july 1998",
+      "Gender": "Male",
+      "Nationality": "Syrian",
+      "Marital Status": "Single",
+      "Address": "Aleppo, Syria"
+    },
+    "summary": "Focused, quick-learning, responsible, and team player Software Engineer with 3 years of experience in web development, works with high efficiency and quality and delivers awesome results that show great attention to detail."
+  },
+  "education": [
+    {
+      "degree": "Bachelor",
+      "school": "Ebla Private University",
+      "specialization": "Faculty of Informatics and Telecommunications Engineering",
+      "GPA": "2.96 / 4.00",
+      "startDate": "3/3/2017",
+      "endDate": "2/2/2020"
+    }
+  ],
+  "skills": [
+    "React",
+    "HTML",
+    "Firebase",
+    "Next.js",
+    "CSS",
+    "MongoDB",
+    "JavaScript",
+    "Bootstrap",
+    "GIT",
+    "jQuery",
+    "Sass",
+    "WordPress"
+  ],
+  "experience": [
+    {
+      "position": "Front-End Developer",
+      "company": "",
+      "startDate": "2/2/2019",
+      "endDate": "current",
+      "projects": [
+        {
+          "id": "105",
+          "name": "Pinfo",
+          "description": "A social media application for sharing photos, The user can log in through a Google account and share his photos with other users. The application supports the comment feature on images, and it has the ability to filter by categories and search for images within the application.",
+          "technologies": ["React", "Bootstrap", "Sanity CMS"],
+          "startDate": "3/3/2022",
+          "endDate": "4/4/2022",
+          "featureImage": "/images/portfolio/105/00.png",
+          "images": [
+            "/images/portfolio/105/01.png",
+            "/images/portfolio/105/02.png",
+            "/images/portfolio/105/03.png",
+            "/images/portfolio/105/04.png"
+          ],
+          "links": {
+            "youtube": "https://www.youtube.com/embed/pQUA6nXBhqg",
+            "github": "https://github.com/3li7u/pinfo",
+            "preview": "https://3li7u.github.io/pinfo"
+          }
+        },
+        {
+          "id": "104",
+          "name": "CVT Platform",
+          "description": "A web application that works as a platform for building a resume and portfolio for job seekers.",
+          "technologies": [
+            "React",
+            "Next.js",
+            "Bootstrap",
+            "Next.js API",
+            "NextAuth.js",
+            "MongoDB"
+          ],
+          "startDate": "11/11/2021",
+          "endDate": "2/2/2022",
+          "images": [
+            "/images/portfolio/image-01.jpg",
+            "/images/portfolio/image-02.jpg"
+          ],
+          "links": {
+            "youtube": "",
+            "github": "",
+            "preview": ""
+          }
+        },
+        {
+          "id": "103",
+          "name": "Next Events",
+          "description": "An application to publish upcoming events with the ability to add comments and discussion.",
+          "technologies": ["React", "Next.js", "Bootstrap", "MongoDB"],
+          "startDate": "9/9/2021",
+          "endDate": "",
+          "images": [
+            "/images/portfolio/image-01.jpg",
+            "/images/portfolio/image-02.jpg"
+          ],
+          "links": {
+            "youtube": "",
+            "github": "",
+            "preview": ""
+          }
+        },
+        {
+          "id": "102",
+          "name": "Meals App",
+          "description": "Meal ordering and delivery app.",
+          "technologies": ["React", "Bootstrap", "Firebase"],
+          "startDate": "3/3/2021",
+          "endDate": "",
+          "images": [
+            "/images/portfolio/image-01.jpg",
+            "/images/portfolio/image-02.jpg"
+          ],
+          "links": {
+            "youtube": "",
+            "github": "",
+            "preview": ""
+          }
+        },
+        {
+          "id": "101",
+          "name": "4G Team",
+          "description": "A web application that provides a service for browsing and downloading university lectures for students.",
+          "technologies": ["React", "Bootstrap", "Google Drive API"],
+          "startDate": "2/2/2019",
+          "endDate": "current",
+          "images": [
+            "/images/portfolio/image-01.jpg",
+            "/images/portfolio/image-02.jpg"
+          ],
+          "links": {
+            "youtube": "",
+            "github": "",
+            "preview": "https://forgteam.com"
+          }
+        }
+      ]
+    }
+  ],
+  "accomplishments": [
+    {
+      "date": "2/1/2022",
+      "name": "Graduation Project",
+      "description": "First place in the graduation projects in my semester with a grade of 95"
+    },
+    {
+      "date": "9/1/2019",
+      "name": "ACM",
+      "description": "12th place in the collegiate programming contest ACM - University of Aleppo."
+    }
+  ]
+}
