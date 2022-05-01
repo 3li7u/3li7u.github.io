@@ -60,92 +60,17 @@
           "technologies": ["React", "Bootstrap", "Sanity CMS"],
           "startDate": "3/3/2022",
           "endDate": "4/4/2022",
-          "featureImage": "/images/portfolio/105/00.png",
+          "featureImage": "/images/portfolio/105/pinfo-muckup.webp",
           "images": [
-            "/images/portfolio/105/01.png",
-            "/images/portfolio/105/02.png",
-            "/images/portfolio/105/03.png",
-            "/images/portfolio/105/04.png"
+            "/images/portfolio/105/pinfo-01.webp",
+            "/images/portfolio/105/pinfo-02.webp",
+            "/images/portfolio/105/pinfo-03.webp",
+            "/images/portfolio/105/pinfo-04.webp"
           ],
           "links": {
             "youtube": "https://www.youtube.com/embed/pQUA6nXBhqg",
             "github": "https://github.com/3li7u/pinfo",
             "preview": "https://3li7u.github.io/pinfo"
-          }
-        },
-        {
-          "id": "104",
-          "name": "CVT Platform",
-          "description": "A web application that works as a platform for building a resume and portfolio for job seekers.",
-          "technologies": [
-            "React",
-            "Next.js",
-            "Bootstrap",
-            "Next.js API",
-            "NextAuth.js",
-            "MongoDB"
-          ],
-          "startDate": "11/11/2021",
-          "endDate": "2/2/2022",
-          "images": [
-            "/images/portfolio/image-01.jpg",
-            "/images/portfolio/image-02.jpg"
-          ],
-          "links": {
-            "youtube": "",
-            "github": "",
-            "preview": ""
-          }
-        },
-        {
-          "id": "103",
-          "name": "Next Events",
-          "description": "An application to publish upcoming events with the ability to add comments and discussion.",
-          "technologies": ["React", "Next.js", "Bootstrap", "MongoDB"],
-          "startDate": "9/9/2021",
-          "endDate": "",
-          "images": [
-            "/images/portfolio/image-01.jpg",
-            "/images/portfolio/image-02.jpg"
-          ],
-          "links": {
-            "youtube": "",
-            "github": "",
-            "preview": ""
-          }
-        },
-        {
-          "id": "102",
-          "name": "Meals App",
-          "description": "Meal ordering and delivery app.",
-          "technologies": ["React", "Bootstrap", "Firebase"],
-          "startDate": "3/3/2021",
-          "endDate": "",
-          "images": [
-            "/images/portfolio/image-01.jpg",
-            "/images/portfolio/image-02.jpg"
-          ],
-          "links": {
-            "youtube": "",
-            "github": "",
-            "preview": ""
-          }
-        },
-        {
-          "id": "101",
-          "name": "4G Team",
-          "description": "A web application that provides a service for browsing and downloading university lectures for students.",
-          "technologies": ["React", "Bootstrap", "Google Drive API"],
-          "startDate": "2/2/2019",
-          "endDate": "current",
-          "images": [
-            "/images/portfolio/image-01.jpg",
-            "/images/portfolio/image-02.jpg"
-          ],
-          "links": {
-            "youtube": "",
-            "github": "",
-            "preview": "https://forgteam.com"
           }
         }
       ]
