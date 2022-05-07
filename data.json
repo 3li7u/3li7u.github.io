@@ -1,7 +1,7 @@
 {
   "meta": {
     "panner": "/images/panner.jpg",
-    "image": "/images/me.png",
+    "image": "/images/a.alhussein.webp",
     "icon": "/images/favicon.png",
     "name": "Ali Alhussein",
     "jobTitle": "Front-End Developer",
@@ -71,6 +71,26 @@
             "youtube": "https://www.youtube.com/embed/pQUA6nXBhqg",
             "github": "https://github.com/3li7u/pinfo",
             "preview": "https://3li7u.github.io/pinfo"
+          }
+        },
+        {
+          "id": "101",
+          "name": "4G Team",
+          "description": "A web application that provides a service for browsing and downloading university lectures for students.",
+          "technologies": ["React", "Bootstrap", " Google Drive API"],
+          "startDate": "2/2/2019",
+          "endDate": "current",
+          "featureImage": "/images/portfolio/101/4g-team-mockup.webp",
+          "images": [
+            "/images/portfolio/101/4g-team-01.webp",
+            "/images/portfolio/101/4g-team-02.webp",
+            "/images/portfolio/101/4g-team-03.webp",
+            "/images/portfolio/101/4g-team-04.webp"
+          ],
+          "links": {
+            "youtube": "",
+            "github": "https://github.com/3li7u/4g-team",
+            "preview": "https://forgteam.tk"
           }
         }
       ]
