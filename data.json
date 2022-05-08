@@ -70,14 +70,91 @@
           "links": {
             "youtube": "https://www.youtube.com/embed/pQUA6nXBhqg",
             "github": "https://github.com/3li7u/pinfo",
-            "preview": "https://3li7u.github.io/pinfo"
+            "preview": "https://alialhussein.ml/pinfo"
+          }
+        },
+        {
+          "id": "104",
+          "name": "CVT Platform",
+          "description": "A web application that works as a platform for building a resume and portfolio for job seekers.",
+          "technologies": [
+            "React",
+            "Next.js",
+            "Next.js API",
+            "NextAuth.js",
+            "Bootstrap",
+            "MongoDB"
+          ],
+          "startDate": "11/11/2021",
+          "endDate": "2/2/2022",
+          "featureImage": "/images/portfolio/104/cvt-mockup.webp",
+          "images": [
+            "/images/portfolio/104/cvt-01.webp",
+            "/images/portfolio/104/cvt-02.webp",
+            "/images/portfolio/104/cvt-03.webp",
+            "/images/portfolio/104/cvt-04.webp",
+            "/images/portfolio/104/cvt-05.webp",
+            "/images/portfolio/104/cvt-06.webp",
+            "/images/portfolio/104/cvt-07.webp",
+            "/images/portfolio/104/cvt-08.webp",
+            "/images/portfolio/104/cvt-09.webp",
+            "/images/portfolio/104/cvt-10.webp"
+          ],
+          "links": {
+            "youtube": "",
+            "github": "",
+            "preview": ""
+          }
+        },
+        {
+          "id": "103",
+          "name": "Next Events",
+          "description": "An application to publish upcoming events with the ability to add comments and discussion.",
+          "technologies": ["React", "Next.js", "Bootstrap", "MongoDB"],
+          "startDate": "9/9/2021",
+          "endDate": "",
+          "featureImage": "/images/portfolio/103/nexts-mockup.webp",
+          "images": [
+            "/images/portfolio/103/nexts-01.webp",
+            "/images/portfolio/103/nexts-02.webp",
+            "/images/portfolio/103/nexts-03.webp",
+            "/images/portfolio/103/nexts-04.webp"
+          ],
+          "links": {
+            "youtube": "https://www.youtube.com/embed/s8hYWiwBJeE",
+            "github": "",
+            "preview": ""
+          }
+        },
+        {
+          "id": "102",
+          "name": "Meals App",
+          "description": "Meal ordering and delivery app.",
+          "technologies": ["React", "Bootstrap", "Firebase"],
+          "startDate": "3/3/2021",
+          "endDate": "",
+          "featureImage": "/images/portfolio/102/meals-mockup.webp",
+          "images": [
+            "/images/portfolio/102/meals-01.webp",
+            "/images/portfolio/102/meals-02.webp",
+            "/images/portfolio/102/meals-03.webp"
+          ],
+          "links": {
+            "youtube": "",
+            "github": "",
+            "preview": ""
           }
         },
         {
           "id": "101",
           "name": "4G Team",
           "description": "A web application that provides a service for browsing and downloading university lectures for students.",
-          "technologies": ["React", "Bootstrap", " Google Drive API"],
+          "technologies": [
+            "React",
+            "Next.js",
+            "Bootstrap",
+            " Google Drive API"
+          ],
           "startDate": "2/2/2019",
           "endDate": "current",
           "featureImage": "/images/portfolio/101/4g-team-mockup.webp",
