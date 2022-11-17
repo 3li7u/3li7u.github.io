@@ -147,8 +147,9 @@
         },
         {
           "id": "101",
-          "name": "4G Team",
-          "description": "A web application that provides a service for browsing and downloading university lectures for students.",
+          "name": "4G Team Website",
+          "caption": "This is a web application that I created in 2019 for Ebla Private university students in Aleppo.",
+          "description": "This is a web application that I created in 2019 for Ebla Private university students in Aleppo.<br/><br/>This application is designed in a simple and easy-to-use manner to help university students browse and download lectures at any time they want. I also feel proud that I offer this service to my colleagues completely free of charge.",
           "technologies": [
             "React",
             "Next.js",
