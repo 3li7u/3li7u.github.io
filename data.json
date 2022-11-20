@@ -24,12 +24,13 @@
   },
   "education": [
     {
-      "degree": "Bachelor",
+      "degree": "Bachelor's Degree",
       "school": "Ebla Private University",
-      "specialization": "Faculty of Informatics and Telecommunications Engineering",
+      "specialization": "Informatics and Telecommunications Engineering",
       "GPA": "2.96 / 4.00",
       "startDate": "3/3/2017",
-      "endDate": "2/2/2020"
+      "endDate": "2/2/2020",
+      "location": "Aleppo, Syria"
     }
   ],
   "skills": [
@@ -49,13 +50,14 @@
   "experience": [
     {
       "position": "Front-End Developer",
-      "company": "",
+      "company": "Freelance",
       "startDate": "2/2/2019",
       "endDate": "current",
       "projects": [
         {
           "id": "105",
           "name": "Pinfo",
+          "caption": "A social media application for sharing photos, The user can log in through a Google account and share his photos with other users. The application supports the comment feature on images, and it has the ability to filter by categories and search for images within the application.",
           "description": "A social media application for sharing photos, The user can log in through a Google account and share his photos with other users. The application supports the comment feature on images, and it has the ability to filter by categories and search for images within the application.",
           "technologies": ["React", "Bootstrap", "Sanity CMS"],
           "startDate": "3/3/2022",
@@ -76,6 +78,7 @@
         {
           "id": "104",
           "name": "CVT Platform",
+          "caption": "A web application that works as a platform for building a resume and portfolio for job seekers.",
           "description": "A web application that works as a platform for building a resume and portfolio for job seekers.",
           "technologies": [
             "React",
@@ -109,6 +112,7 @@
         {
           "id": "103",
           "name": "Next Events",
+          "caption": "An application to publish upcoming events with the ability to add comments and discussion.",
           "description": "An application to publish upcoming events with the ability to add comments and discussion.",
           "technologies": ["React", "Next.js", "Bootstrap", "MongoDB"],
           "startDate": "9/9/2021",
@@ -129,6 +133,7 @@
         {
           "id": "102",
           "name": "Meals App",
+          "caption": "Meal ordering and delivery app.",
           "description": "Meal ordering and delivery app.",
           "technologies": ["React", "Bootstrap", "Firebase"],
           "startDate": "3/3/2021",
