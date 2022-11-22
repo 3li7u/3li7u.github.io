@@ -3,8 +3,8 @@
     "panner": "/images/panner.jpg",
     "image": "/images/a.alhussein.webp",
     "icon": "/images/favicon.png",
-    "name": "Ali Alhussein",
-    "jobTitle": "Front-End Developer: creating web apps using React JS, Next.js",
+    "name": "Ali Khaled Alhussein",
+    "jobTitle": "Front-End Web Developer: Creating web apps using ReactJS & Next.js",
     "isEmployed": false,
     "startYear": 2019,
     "contact": {
@@ -14,13 +14,13 @@
       "github": "https://github.com/3li7u"
     },
     "personalInfo": {
-      "DOB": "10th  july 1998",
+      "DOB": "10th  July 1998",
       "Gender": "Male",
       "Nationality": "Syrian",
       "Marital Status": "Single",
       "Address": "Aleppo, Syria"
     },
-    "summary": "I am a fresh software engineering graduate specializing in web development with 3 years of experience, by self-learning, and I am seeking new opportunities in the field. and I am a committed, motivated, creative, and dedicated professional.<br/>I've built many web applications and websites through my self-learning journey since 2019. Additionally, I got 1st place with my graduation project in the semester of Feb 2022. Finally, I participated in ICPC at the local level and got 12th place in the Aleppo University contest in 2019.<br/>I am skilled in full-stack web development using MERN-stack: React JS and Next.js"
+    "summary": "I am a fresh software engineering graduate specializing in web development with 3 years of experience, by self-learning, and I am seeking new opportunities in the field. and I am a committed, motivated, creative, and dedicated professional.<br/><br/>I've built many web applications and websites through my self-learning journey since 2019. Additionally, I participated in ICPC at the local level and got 12th place in the Aleppo University contest in 2019. Finally, I got 1st place with my graduation project in the semester of spring 2022.<br/><br/>I am skilled in front-end web development using ReactJS and Next.js. Additionally, WordPress development using page builders like Elementor and Theme development from scratch."
   },
   "education": [
     {
@@ -34,31 +34,37 @@
     }
   ],
   "skills": [
-    "React",
+    "ReactJS",
     "HTML",
-    "Firebase",
+    "GIT",
     "Next.js",
     "CSS",
-    "MongoDB",
+    "WordPress",
     "JavaScript",
     "Bootstrap",
-    "GIT",
+    "Adobe Photoshop",
     "jQuery",
     "Sass",
-    "WordPress"
+    "Adobe Illustrator",
+    "MongoDB",
+    "Firebase",
+    "Adobe XD",
+    "MySQL",
+    "Problem Solving (C, C++)",
+    "Hosting, cPanel"
   ],
   "experience": [
     {
       "position": "Front-End Developer",
-      "company": "Freelance",
+      "company": "Freelance & Self-Learning",
       "startDate": "2/2/2019",
       "endDate": "current",
       "projects": [
         {
           "id": "105",
           "name": "Pinfo",
-          "caption": "A social media application for sharing photos, The user can log in through a Google account and share his photos with other users. The application supports the comment feature on images, and it has the ability to filter by categories and search for images within the application.",
-          "description": "A social media application for sharing photos, The user can log in through a Google account and share his photos with other users. The application supports the comment feature on images, and it has the ability to filter by categories and search for images within the application.",
+          "caption": "This is a social media application that I created in 2022.",
+          "description": "This is a social media application for sharing photos that I created in 2022. It comes with elegant and modern user interfaces, it allows users to register with a Google account, and then share photos, comment on them, and search as well. I am proud of this application and the knowledge that I gained during its implementation.",
           "technologies": ["React", "Bootstrap", "Sanity CMS"],
           "startDate": "3/3/2022",
           "endDate": "4/4/2022",
@@ -78,8 +84,8 @@
         {
           "id": "104",
           "name": "CVT Platform",
-          "caption": "A web application that works as a platform for building a resume and portfolio for job seekers.",
-          "description": "A web application that works as a platform for building a resume and portfolio for job seekers.",
+          "caption": "This is a web application that I created as graduation project in 2022",
+          "description": "This is a web application that I created in 2022, which is a very significant platform as it helps job seekers to build their resumes and e-portfolios. And since it was my graduation project, I spent a lot of effort on it from analyzing the system to designing diagrams until building the final app. I am so delighted about it and about its final result.",
           "technologies": [
             "React",
             "Next.js",
@@ -112,8 +118,8 @@
         {
           "id": "103",
           "name": "Next Events",
-          "caption": "An application to publish upcoming events with the ability to add comments and discussion.",
-          "description": "An application to publish upcoming events with the ability to add comments and discussion.",
+          "caption": "This is a web application that I created in 2022 for publishing events.",
+          "description": "This is a web application that I created in 2022. Which is a simple and cool space to publish upcoming events with the ability to add comments and make discussions.",
           "technologies": ["React", "Next.js", "Bootstrap", "MongoDB"],
           "startDate": "9/9/2021",
           "endDate": "",
@@ -133,8 +139,8 @@
         {
           "id": "102",
           "name": "Meals App",
-          "caption": "Meal ordering and delivery app.",
-          "description": "Meal ordering and delivery app.",
+          "caption": "This is a meal ordering and delivery application that I created in 2021.",
+          "description": "This is a meal ordering and delivery application that I created in 2021. it comes with modern and interactive user interfaces. It's able to manage orders in real time.",
           "technologies": ["React", "Bootstrap", "Firebase"],
           "startDate": "3/3/2021",
           "endDate": "",
@@ -154,13 +160,8 @@
           "id": "101",
           "name": "4G Team Website",
           "caption": "This is a web application that I created in 2019 for Ebla Private university students in Aleppo.",
-          "description": "This is a web application that I created in 2019 for Ebla Private university students in Aleppo.<br/><br/>This application is designed in a simple and easy-to-use manner to help university students browse and download lectures at any time they want. I also feel proud that I offer this service to my colleagues completely free of charge.",
-          "technologies": [
-            "React",
-            "Next.js",
-            "Bootstrap",
-            " Google Drive API"
-          ],
+          "description": "This is a web application that I created in 2019 for Ebla Private university students in Aleppo, which is designed in a simple and easy-to-use manner to help university students browse and download lectures at any time they want. I also feel proud that I offer this service to my colleagues completely free of charge.",
+          "technologies": ["React", "Next.js", "Bootstrap", "Google Drive API"],
           "startDate": "2/2/2019",
           "endDate": "current",
           "featureImage": "/images/portfolio/101/4g-team-mockup.webp",
@@ -183,11 +184,11 @@
     {
       "date": "2/1/2022",
       "name": "Graduation Project",
-      "description": "First place in the graduation projects in my semester with a grade of 95"
+      "description": "First place with my graduation projects in the semester of spring 2022 with a grade of 95"
     },
     {
       "date": "9/1/2019",
-      "name": "ACM",
+      "name": "ICPC ACM",
       "description": "12th place in the collegiate programming contest ACM - University of Aleppo."
     }
   ]
