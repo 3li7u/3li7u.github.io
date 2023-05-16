@@ -4,8 +4,8 @@
     "image": "/images/a.alhussein.webp",
     "icon": "/images/favicon.png",
     "name": "Ali Khaled Alhussein",
-    "jobTitle": "Front-End Web Developer: Creating web apps using ReactJS & Next.js",
-    "isEmployed": false,
+    "jobTitle": "Front-End Web Developer: Creating web apps using ReactJS, Next.js, and Angular",
+    "isEmployed": true,
     "startYear": 2019,
     "contact": {
       "mobile": "+963991570653",
@@ -24,6 +24,15 @@
   },
   "education": [
     {
+      "degree": "Master's Degree",
+      "school": "Syrian Virtual University",
+      "specialization": "Web Science MWS",
+      "GPA": "2.96 / 4.00",
+      "startDate": "3/3/2017",
+      "endDate": "2/2/2020",
+      "location": "Aleppo, Syria"
+    },
+    {
       "degree": "Bachelor's Degree",
       "school": "Ebla Private University",
       "specialization": "Informatics and Telecommunications Engineering",
@@ -40,6 +49,9 @@
     "Next.js",
     "CSS",
     "WordPress",
+    "Angular",
+    "Angular Material",
+    "Systems Analysis",
     "JavaScript",
     "Bootstrap",
     "Adobe Photoshop",
@@ -54,6 +66,18 @@
     "Hosting, cPanel"
   ],
   "experience": [
+    {
+      "position": "Software Engineer",
+      "company": "RemoColla",
+      "startDate": "12/24/2022",
+      "endDate": "current",
+      "responsibilities": [
+        "Creating user-friendly and mobile-based web application.",
+        "Gathering requirements and drawing UMLs.",
+        "Creating, editing and maintaining WordPress websites.",
+        "Managing web servers, c-panels, webmail, domain names, backups, ...etc."
+      ]
+    },
     {
       "position": "Front-End Developer",
       "company": "Freelance & Self-Learning",
