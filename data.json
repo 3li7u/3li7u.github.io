@@ -27,9 +27,9 @@
       "degree": "Master's Degree",
       "school": "Syrian Virtual University",
       "specialization": "Web Science MWS",
-      "GPA": "2.96 / 4.00",
-      "startDate": "3/3/2017",
-      "endDate": "2/2/2020",
+      "GPA": "",
+      "startDate": "2/2/2023",
+      "endDate": "current",
       "location": "Aleppo, Syria"
     },
     {
@@ -38,7 +38,7 @@
       "specialization": "Informatics and Telecommunications Engineering",
       "GPA": "2.96 / 4.00",
       "startDate": "3/3/2017",
-      "endDate": "2/2/2020",
+      "endDate": "2/2/2022",
       "location": "Aleppo, Syria"
     }
   ],
