@@ -5,13 +5,14 @@
     "icon": "/images/favicon.png",
     "name": "Ali Khaled Alhussein",
     "jobTitle": "Front-End Web Developer: Creating web apps using ReactJS, Next.js, and Angular",
-    "isEmployed": true,
+    "isEmployed": false,
     "startYear": 2019,
     "contact": {
       "mobile": "+963991570653",
       "email": "a.alhussein33@gmail.com",
       "linkedin": "https://www.linkedin.com/in/ali-alhussein",
-      "github": "https://github.com/3li7u"
+      "github": "https://github.com/3li7u",
+      "portfolio": "https://ali-alhussein.tk"
     },
     "personalInfo": {
       "DOB": "10th  July 1998",
@@ -36,7 +37,7 @@
       "degree": "Bachelor's Degree",
       "school": "Ebla Private University",
       "specialization": "Informatics and Telecommunications Engineering",
-      "GPA": "2.96 / 4.00",
+      "GPA": "2.96 / 4.00 - 80 / 100",
       "startDate": "3/3/2017",
       "endDate": "2/2/2022",
       "location": "Aleppo, Syria"
@@ -70,17 +71,40 @@
       "position": "Software Engineer",
       "company": "RemoColla",
       "startDate": "12/24/2022",
-      "endDate": "current",
+      "endDate": "6/4/2023",
       "responsibilities": [
+        "Gathering and documenting requirements and drawing UMLs.",
         "Creating user-friendly and mobile-based web application.",
-        "Gathering requirements and drawing UMLs.",
         "Creating, editing and maintaining WordPress websites.",
-        "Managing web servers, c-panels, webmail, domain names, backups, ...etc."
+        "Managing web servers, c-panels, webmail, domain names, backups, ...etc.",
+        "Collaborating with other team members and stakeholders."
       ]
     },
     {
-      "position": "Front-End Developer",
-      "company": "Freelance & Self-Learning",
+      "position": "WordPress Developer (Project-Based)",
+      "company": "Raizer",
+      "startDate": "6/1/2022",
+      "endDate": "7/1/2022",
+      "responsibilities": [
+        "Choosing and Installing WordPress themes.",
+        "Customizing WordPress theme to meet the requirements.",
+        "Managing the server, c-panel and backups."
+      ]
+    },
+    {
+      "position": "Front End Developer",
+      "company": "ProKoders",
+      "startDate": "8/1/2020",
+      "endDate": "1/1/2021",
+      "responsibilities": [
+        "Developing user-friendly and mobile-based websites.",
+        "Collaborating with other team members and stakeholders.",
+        "Fixing website issues or bugs."
+      ]
+    },
+    {
+      "position": "Top Projects",
+      "company": "",
       "startDate": "2/2/2019",
       "endDate": "current",
       "projects": [
